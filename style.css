@@ -1,0 +1,72 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.img-tag{
+    width: 150px;
+}
+.container{
+    margin-bottom: 20px;
+}
+#bttn{
+    background-color: #1dd82c;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    padding: 6px 20px;
+
+}
+.backgraund{
+    background-color: #F0FFF0;
+}
+.carousel-inner{
+    padding: 20px 40px;
+}
+.h1{
+    text-align: center;
+}
+h6{
+    color: red;
+}
+.clr-highlight{
+    color: #21B573;
+}
+.strt{
+    background-image: linear-gradient(to bottom, #04f78a 0%, #21B573 100%) ;
+  border: none;
+border-radius: 25px;
+padding: 9px 25px;
+cursor: pointer;
+color: white;
+}
+.box1{
+    background-color: #F0FFF0;
+    padding: 10px 30px;
+    border-radius: 15px;
+    
+}
+.box2{
+    background-color: #F0FFF0;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.box3{
+    background-color: #F0FFF0;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.box4{
+    background-color: #F0FFF0;
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.text{
+    text-align: right;
+}
+.footer-padding{
+    background-color: black;
+    
+}
+.text-center{
+    text-align: center;
+}
+*amin onk try korchi but parchi na ar*
